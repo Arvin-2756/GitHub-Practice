@@ -1,0 +1,1 @@
+contain java essential libraries to support frontend development
