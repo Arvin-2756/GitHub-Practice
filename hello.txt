@@ -1,3 +1,2 @@
-This is my first GitHub project
+this contain python files for supporting backend development
 
-also this is my second time github project making 
