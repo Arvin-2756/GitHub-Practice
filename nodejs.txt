@@ -1,0 +1,1 @@
+contain nodejs structure elements to support gateway process
